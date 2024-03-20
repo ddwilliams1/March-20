@@ -1,1 +1,3 @@
 CM March-20 new file 1 03/20/24
+
+Selected the Require contributors to sign off on web-based commits "sign-off feature"
